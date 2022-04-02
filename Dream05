@@ -1,0 +1,26 @@
+{
+   "Ads":[
+      {
+         "app_id":"ca-app-pub-3940256099942544~3347511711",
+         "banner_id":"",
+         "interstitial_id":"",
+         "native_id":"",
+         "qureka_ads":"https://831.win.qureka.com/",
+         "status":"true",
+         "splash_ads":"false"
+      },
+      {
+         "app_id":"",
+         "banner_id":"345959700906417_345960427573011",
+         "interstitial_id":"345959700906417_345960587572995",
+          "interstitial_id1":"345959700906417_345960624239658",
+          "interstitial_id2":"345959700906417_345960654239655",
+         "native_id":"345959700906417_345960684239652",
+         "native_banner_id":"",
+         "rectangle_banner_id":"",
+         "status":"true",
+         "splash_ads":"false"
+         
+}
+   ]
+}
